@@ -12,6 +12,7 @@ using namespace std;
 
 int main()
 {
+	cout << "Cu" << endl;
 	cout << "Hello, and welcome to Editors Toolkit" << endl;
 	cout << "In order to start, select an option: " << endl;
 	cout << "1. Aspect ratio calculator. " << endl;
